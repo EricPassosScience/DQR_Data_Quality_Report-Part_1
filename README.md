@@ -1,3 +1,6 @@
-# DQR_Data_Quality_Report-Part1
+# Data Quality Report-DQR (Spanish)
+
+
+
 
 Em breve...
