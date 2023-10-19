@@ -21,7 +21,7 @@ En la práctica (en mi opinión), el DQR no es más que un análisis exploratori
 
 *********************************
 
-## Las grandes empresas utilizan la importación de calidad de datos
+## Las grandes empresas utilizan Data Quality Report
 Muchas de las empresas más grandes del mundo utilizan Data Quality Import como medida para asegurar que los datos de diferentes fuentes no solo sean recopilados, sino también refinados con precisión, evitando que el área de negocio tome decisiones equivocadas.
 
 Un ejemplo de esto es UBER. Esta empresa desarrolló una herramienta llamada “Data Quality Monitor (DQM)”, que utiliza modelos estadísticos para identificar anomalías en los datos, alertando a los propietarios de las tablas de datos cuando se detectan problemas.
