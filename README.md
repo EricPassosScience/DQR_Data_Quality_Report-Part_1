@@ -41,4 +41,3 @@ Aquí está la arquitectura simplificada de esta solución utilizada por UBER:
 REFERENCIA -> https://www.uber.com/en-BR/blog/monitoring-data-quality-at-scale/ 
  ********************************************
 
- Continuará...
