@@ -39,5 +39,14 @@ Aquí está la arquitectura simplificada de esta solución utilizada por UBER:
 </p>
 
 REFERENCIA -> https://www.uber.com/en-BR/blog/monitoring-data-quality-at-scale/ 
- ********************************************
+********************************************
+
+## DEFINICIÓN DEL PROBLEMA
+Una compañía de seguros de propiedad en la ciudad de Nueva York en EUA, con el objetivo de calcular el valor del seguro de la mejor manera posible, nos contrató como científico de datos para analizar y detectar fraudes en los datos de transacciones inmobiliarias en toda la ciudad.
+
+Sin embargo, primero la empresa necesita un informe que demuestre que los datos son fiables y actuales y que la calidad de la información que proporciona puede utilizarse para predecir posibles fraudes.
+
+Destaco que aquí nos centraremos en DQR, la parte relacionada con la detección de fraude se hará en la parte 2 (próximamente).
+
+*************************************************
 
