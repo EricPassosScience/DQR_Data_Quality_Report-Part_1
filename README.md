@@ -50,3 +50,12 @@ Destaco que aquí nos centraremos en DQR, la parte relacionada con la detección
 
 *************************************************
 
+## FUENTE DE DATOS
+Para este proyecto (partes 1 y 2), utilizaremos datos reales disponibles públicamente. Se puede acceder a los datos en el portal de datos abiertos de la ciudad de Nueva York. Enlace -> https://data.cityofnewyork.us/Housing-Development/Property-Valuation-and-Assessment-Data/rgy2-tti8
+
+<p align="center">
+  <img width="1100" height="300" src="https://github.com/EricPassosScience/DQR_Data_Quality_Report-Part_1/assets/97414922/a0451d6b-03c5-43e3-a33b-09d26af2cd81/imagem_2023-10-20_220325472.png">
+</p>
+
+En el mismo enlace podemos encontrar el diccionario de datos que será fundamental para nuestro análisis.
+********************************************
