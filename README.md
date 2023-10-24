@@ -59,3 +59,20 @@ Para este proyecto (partes 1 y 2), utilizaremos datos reales disponibles públic
 
 En el mismo enlace podemos encontrar el diccionario de datos que será fundamental para nuestro análisis.
 ********************************************
+# Algunos resultados
+*********************************************
+## Resumen Estadístico de Variables Numéricas
+<p align="center">
+  <img width="1100" height="500" src="https://github.com/EricPassosScience/DQR_Data_Quality_Report-Part_1/assets/97414922/7bb6082f-43e5-4566-8516-b904a3b9bbbb/imagem_2023-10-23_214747225.png">
+</p>
+
+************************************************
+
+## Resumen Estadístico de Variables Categóricas
+<p align="center">
+  <img width="800" height="500" src="https://github.com/EricPassosScience/DQR_Data_Quality_Report-Part_1/assets/97414922/9e15a7f2-eea8-495c-a06b-f328af7be2ba/imagem_2023-10-23_215245475.png">
+</p>
+
+*******************************************************
+## Asegúrese de consultar el análisis completo del script de Python.
+## Fin
